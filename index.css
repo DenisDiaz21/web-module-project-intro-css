@@ -1,0 +1,131 @@
+* {
+    font-family: Roboto Mono;
+}
+
+.link1 {
+    background-color: #FF764E;
+    text-align: center;
+    border-radius: 20px;
+    padding: 30px;
+    width: 200px;
+    height: 150px;
+   
+}
+
+.link2 { 
+    background-color: #5ED3EB;
+    text-align: center;
+    border-radius: 20px;
+    padding: 30px;
+    width: 200px;
+    height: 150px;
+}
+
+.link3 {
+    background-color: #FFCD69;
+    text-align: center;
+    border-radius: 20px;
+    padding: 30px;
+    width: 200px;
+    height: 150px;
+}
+
+.headerParagraph1 {
+    text-align: center;
+    position: relative;
+    font-size: 25px;
+    bottom: 280px;
+    margin-left: 450px;
+    margin-right: 250px;
+}
+.headerParagraph2 {
+    text-align: center;
+    position: relative;
+    font-size: 25px;
+    bottom: 280px;
+    margin-left: 600px;
+    margin-right: 400px;
+}
+.bodyParagraph {
+    background-color: #DDB9A3;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
+
+.middleParagraphs {
+    text-align: center;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+
+.imgs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+
+.headerImg {
+    display: block;
+    margin-right: auto;
+    margin-top: 150px;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    position: relative;
+    top: 100px;
+    left: 60px;
+}
+.upperLinks {
+      position: relative;
+      top: 150px;
+}
+.lowerLinks {
+    margin-top: 100px;
+}
+
+.footerImg {
+    margin-left: 30px;
+    width: auto;
+    height: 370px;
+    overflow: hidden;
+}
+header {
+    margin-bottom: -220px;
+}
+nav {
+    text-align:center;
+    
+}
+
+a:link {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1 {
+    font-family: Chelsea Market;
+    text-align: center;
+    position: relative;
+    bottom: 250px;
+    margin-left: 250px;
+    font-size: 75px;
+
+}
+
+footer {
+    background-color:#F9E7DC;
+    padding-bottom: 100px;
+}
+
